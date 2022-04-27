@@ -1,7 +1,7 @@
 Hi 👋 My name is thiago chiesa
 ==============================
 
-MERN Full Stack & Mobile Apps Developer
+MERN Full Stack & Mobile Apps Developer || Python Developer
 ---------------------------------------
 
 * 🌍  I'm based in Córdoba, Argentina
